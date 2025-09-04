@@ -45,10 +45,10 @@ const myFunction = function () {        //function
 
 console.table([typeof heros, typeof myObj, typeof myFunction]);
 
-// ┌───────────┬────────────┐
-// │ dataTypes │ Return     │
-// ├───────────┼────────────┤
-// │ 0         │ 'object'   │
-// │ 1         │ 'object'   │
-// │ 2         │ 'function' │
-// └───────────┴────────────┘
+// ┌───────────┬───────────────────┐
+// │ dataTypes │ Return            │
+// ├───────────┼───────────────────┤
+// │ Array     │ 'object'          │
+// │ Object    │ 'object'          │
+// │ Function  │ 'function object' │
+// └───────────┴───────────────────┘
