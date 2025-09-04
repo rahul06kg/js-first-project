@@ -52,3 +52,9 @@ console.table([typeof heros, typeof myObj, typeof myFunction]);
 // │ Object    │ 'object'          │
 // │ Function  │ 'function object' │
 // └───────────┴───────────────────┘
+
+
+/* ************************ Memory ************************ */
+
+//stack (for Primitive datatypes) and Heap (for Non-Primitive datatypes)
+
